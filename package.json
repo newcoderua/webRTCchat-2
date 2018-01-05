@@ -1,0 +1,18 @@
+{
+  "name": "my-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".js/scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server ./js/scripts.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "webpack": "^3.10.0"
+  }
+}
